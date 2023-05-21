@@ -1,0 +1,63 @@
+body{
+    background-image: url(materi/back3.jpg);
+    background-size: 100%;
+}
+
+.judul h1{
+    font-size: 85px;
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -10px;
+    -webkit-text-stroke: #FFF9E6 2px;
+}
+
+
+.product-contain{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.product-child-1 img{
+    height:500px;
+    padding-left: 40%;
+    
+}
+ 
+.product-child-1{
+    width: 50%;
+}
+
+.product-child-2{
+    width: 50%;
+    text-align: center;
+}
+
+.child-2{
+    padding: 50px 25px;
+    margin-top: 22%;
+    border-radius: 15%;
+    float: left;
+    background-color: #FFF9E6;
+}
+
+.child-2 h3{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    padding-top: 100px 0;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.child-2 button{
+    margin-top: 20px;
+    background-color: #FF2E1F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding: 15px 15px;
+    border-radius: 2rem;
+}
